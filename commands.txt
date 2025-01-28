@@ -1,2 +1,2 @@
-alias number-guess-cli="python main.py"
-todo-list-cli
+alias simple-quiz-cli="python main.py"
+simple-quiz-cli
